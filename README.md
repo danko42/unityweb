@@ -1,5 +1,5 @@
 # unityweb
-Automatically exported from code.google.com/p/unityweb
+Automatically exported from http://code.google.com/p/unityweb
 
 The WWW class in Unity3D is deficient in many ways.
 
